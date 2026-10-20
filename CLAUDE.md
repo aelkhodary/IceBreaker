@@ -50,4 +50,4 @@ Modules call `load_dotenv()` themselves. The required `.env` keys are `OPENAI_AP
 `.github/workflows/claude-code-review.yml` runs automated Claude PR reviews. `claude.yml` responds to `@claude` mentions and has the Context7 MCP server configured for library docs.
 
 
-# I like to eat Mamburger and Piza
+# I like to eat Mamburger , Piza and fish
